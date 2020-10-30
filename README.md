@@ -1,2 +1,2 @@
-# sqlaclhemy-challenge
+# sqlalchemy-challenge
 SQLAlchemy HW
